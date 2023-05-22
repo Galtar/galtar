@@ -9,7 +9,7 @@ Analista de Sistemas e apaixonado por tecnologia, desenvolvimento, aprendizado c
 [<img align="left" alt="Delphi" width="40px" src="https://github.com/Galtar/galtar/assets/7355518/e4d42b6a-3cdf-42e7-90c2-0c725b2c9422"/>](https://www.embarcadero.com)
 [<img align="left" alt="MySQL" width="70px" src="https://github.com/Galtar/galtar/assets/7355518/c95a4b32-d337-4ad5-9701-2efeff2134b9"/>](https://www.mysql.com)
 [<img align="left" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>](https://git-scm.com)
-[<img align="left" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>](https://github.com)<br><br>
+[<img align="left" alt="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>](https://github.com)<br><br>
 __________________________________________________________________
 
 ### Você também me encontra em:
